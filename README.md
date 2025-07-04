@@ -31,6 +31,7 @@ A comprehensive business intelligence project analyzing the Global Superstore da
 
 - **Python 3.11**
   - Pandas
+  - numPy
   - Matplotlib
   - Seaborn
 - **Power BI Desktop**
@@ -56,10 +57,10 @@ A comprehensive business intelligence project analyzing the Global Superstore da
 
 ## 📈 Insights
 
-- 💰 **California** and **New York** are top-performing states.
+- 💰 **England** and **California** are top-performing states.
 - 🚛 **Standard Class** is the most used shipping mode, but **Same Day** is the fastest.
 - 📉 Several products are sold with **high discounts** but result in **negative profit**.
-- 🧍‍♂️ Customers like **Tamara Chand** and **Sean Miller** are high-value.
+- 🧍‍♂️ Customers like **Tamara Chand** and **tom** are high-value.
 - 🕒 Sales peak during the **year-end** (Oct–Dec) across most years.
 
 ---
